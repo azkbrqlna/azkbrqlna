@@ -33,7 +33,7 @@
 ## 🧩 Featured Projects
 🌟 **[LearnifAI](https://github.com/azkbrqlna/LearnifAI)** — AI-powered learning platform built with **Laravel** , **Inertia** , **React**.  
 
-🎨 **[Portfolio Next.js](https://github.com/azkbrqlna/portofolio)** — My personal portfolio showcasing modern UI with **Next.js** and **Tailwind**. 
+🎨 **[Portfolio](https://github.com/azkbrqlna/portofolio)** — My personal portfolio showcasing modern UI with **Next.js** and **Tailwind**. 
 
 💸 **[CashFlowin](https://github.com/azkbrqlna/CashFlowin)** — Smart finance tracker built with **Next.js**, **Firebase**, and **TailwindCSS**.  
 

@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/azkbrqlna">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=440&lines=Building+cool+things+with+code;Fullstack+Developer+from+Indonesia;Laravel+%26+Next.js+enthusiast;Always+learning+new+stuff+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=440&lines=Building+cool+things+with+code;Fullstack+Developer+from+Indonesia;Laravel+%2B+Next.js+Enthusiast;Always+learning+new+stuff+🚀" alt="Typing SVG" />
   </a>
 </p>
 

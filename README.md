@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me  
-💡 I’m **Azka**, a passionate **Fullstack Developer** who loves creating elegant web applications with **Laravel**, **Next.js**, and a touch of **AI magic**.  
+💡 I’m **Azka**, a passionate **Fullstack Developer** who loves creating elegant web applications.  
 ⚙️ My focus is on **performance**, **clean code**, and **beautiful user experiences**.  
 🌱 Currently exploring advanced topics like **backend architecture**, **API design**, and **modern frontend workflows**.  
 🎯 Mission: *Code less, create more, impact bigger.*

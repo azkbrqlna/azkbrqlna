@@ -1,67 +1,50 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#00C6FF;">Azka</span></h1>
-<h3 align="center">🚀 Fullstack Developer | 🧠 Problem Solver | 🌏 Based in Indonesia</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/azkbrqlna">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=480&lines=Fullstack+Developer;Strong+Logic%2C+Modern+Design;Always+learning+new+techs" alt="Typing SVG" />
-  </a>
+# Hi, I'm Azka 👋
+
+### Building useful digital experiences, one thoughtful detail at a time.
+
+[![Profile views](https://komarev.com/ghpvc/?username=azkbrqlna&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/azkbrqlna)
+
+</div>
+
+## About me
+
+I'm an Indonesian developer who enjoys turning everyday needs into clean, practical web and mobile experiences. I care about polished interfaces, maintainable code, and products that make a real difference for the people using them.
+
+- 🔭 Currently building web applications and digital tools.
+- 🌱 Deepening my skills in full-stack development and modern UI engineering.
+- 💬 Happy to talk about JavaScript, React, Next.js, Laravel, Flutter, and product design.
+- ⚡ I like making technology feel simple, even when the work behind it isn't.
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,php,laravel,flutter,dart,firebase,mysql,git,github&perline=13" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, PHP, Laravel, Flutter, Dart, Firebase, MySQL, Git, and GitHub" />
 </p>
 
----
+## What I enjoy building
 
-## 🧠 About Me  
-💡 I’m **Azka**, a passionate **Fullstack Developer** who loves creating elegant web applications.  
-⚙️ My focus is on **performance**, **clean code**, and **beautiful user experiences**.  
-🌱 Currently exploring advanced topics like **backend architecture**, **API design**, and **modern frontend workflows**.  
-🎯 Mission: *Code less, create more, impact bigger.*
+| Focus | What it means to me |
+| :-- | :-- |
+| **Web products** | Responsive, accessible interfaces with React, Next.js, and Tailwind CSS. |
+| **Business tools** | Clear workflows for finance, management, reporting, and daily operations. |
+| **Full-stack systems** | Reliable APIs and applications powered by Laravel, Firebase, and SQL. |
+| **Mobile experiences** | Cross-platform apps with Flutter that stay fast and intuitive. |
 
----
-
-## 🛠️ Tech Arsenal
-
-### ⚡ Core Stack
-| Area | Tools |
-|------|--------|
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-
----
-
-## 🧩 Featured Projects
-🌟 **[LearnifAI](https://github.com/azkbrqlna/LearnifAI)** — AI-powered learning platform built with **Laravel** , **Inertia** , **React**.  
-
-🎨 **[Portfolio](https://github.com/azkbrqlna/portofolio)** — My personal portfolio showcasing modern UI with **Next.js** and **Tailwind**. 
-
-💸 **[CashFlowin](https://github.com/azkbrqlna/CashFlowin)** — Smart finance tracker built with **Next.js**, **Firebase**, and **TailwindCSS**.  
-
-
----
-
-## 📊 GitHub Insights
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azkbrqlna&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azkbrqlna&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Azka's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=azkbrqlna&hide_border=true&theme=transparent" alt="Azka's GitHub contribution streak" />
 </p>
 
----
-
-## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://github.com/azkbrqlna"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/azkbrqlna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:azkbrqlna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azkbrqlna&bg_color=ffffff00&color=0969da&line=0969da&point=1f6feb&area=true&hide_border=true" alt="Azka's contribution graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azkbrqlna&label=Profile+Views&color=00C6FF&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>“Code is like art — the cleaner it is, the more beautiful it becomes.”</i><br/>
-  <b>— Azka 🧠</b>
+  <i>“Great software is built with curiosity, empathy, and a willingness to keep improving.”</i>
 </p>

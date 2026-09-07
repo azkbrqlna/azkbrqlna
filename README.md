@@ -90,8 +90,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azkbrqlna&show_icons=true&type=tokyonight&hide_border=true&count_private=true&theme=tokyonight" alt="Azka's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkbrqlna&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azkbrqlna&theme=tokyonight" alt="Azka's GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azkbrqlna&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
@@ -99,14 +99,14 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=azkbrqlna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="160em" src="https://streak-stats.demolab.com/?user=azkbrqlna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azkbrqlna&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azkbrqlna&theme=tokyonight" alt="Contribution Details Graph" />
 </div>
 
 ---
